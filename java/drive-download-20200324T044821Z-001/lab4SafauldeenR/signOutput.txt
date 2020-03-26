@@ -1,0 +1,50 @@
+You entered 2/21/2017
+This date's astrological sign is Pisces
+
+You entered 7/4/2016
+This date's astrological sign is Cancer
+
+You entered 3/31/2016
+This date's astrological sign is Aries
+
+You entered 0/14/1999
+This date is invalid.
+This date's astrological sign is Unclear
+
+You entered 12/5/2016
+This date's astrological sign is Sagittarius
+
+You entered 7/41/1887
+This date is invalid.
+This date's astrological sign is Unclear
+
+You entered 10/15/2017
+This date's astrological sign is Libra
+
+You entered 5/19/2017
+This date's astrological sign is Taurus
+
+You entered 6/30/1988
+This date's astrological sign is Cancer
+
+You entered 6/7/2016
+This date's astrological sign is Gemini
+
+You entered 5/15/2015
+This date's astrological sign is Taurus
+
+You entered 12/12/2012
+This date's astrological sign is Sagittarius
+
+You entered 11/3/2000
+This date's astrological sign is Scorpio
+
+You entered 5/28/2001
+This date's astrological sign is Gemini
+
+You entered 1/20/1940
+This date's astrological sign is Aquarius
+
+You entered 12/5/2000
+This date's astrological sign is Sagittarius
+

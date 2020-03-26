@@ -1,0 +1,207 @@
+The student(s) who got the highest GPA:
+Rodriguez, Rick, major: CS. GPA: 4.000 
+Shrestha, Yunesh , major: CS. GPA: 4.000 
+Karki, An San Suu, major: MATH. GPA: 4.000 
+Lynch, Man u'El, major: SE. GPA: 4.000 
+
+The students in the order they are stored: 
+Weng, Ahmad. major: SE. GPA: 3.833 
+Vela, Tyler . major: CS. GPA: 3.273 
+Nguyen, Victor. major: EE. GPA: 2.786 
+Saad, Joel . major: UENG. GPA: 3.563 
+Truong, Johnny . major: PHYS. GPA: 3.250 
+Plumer, Juan . major: SE. GPA: 2.438 
+Marquez, Justin. major: CS. GPA: 2.385 
+Pradhan, Kendrick. major: SE. GPA: 3.533 
+Rodriguez, Rick. major: CS. GPA: 4.000 
+Sifuentes, Thomas. major: CSE. GPA: 3.000 
+Heinen, Tiffany. major: CS. GPA: 1.133 
+Ruckdeschell, Tre'. major: CSE. GPA: 2.917 
+Jimenez, Vishal. major: CS. GPA: 3.308 
+Shrestha, Yunesh . major: CS. GPA: 4.000 
+Karki, An San Suu. major: MATH. GPA: 4.000 
+Adedeji, Anita . major: CS. GPA: 3.769 
+Sawall Bakary. major: CS. GPA: 3.500 
+Crist, Blake . major: SE. GPA: 1.353 
+Camara, Chris. major: CS. GPA: 2.556 
+Oniomoba, Daniel. major: CSE. GPA: 3.250 
+Barron, Hoang. major: MATH. GPA: 3.067 
+Sayan, Jim Bob. major: CSE. GPA: 1.286 
+Aceves, Ly Anna. major: CS. GPA: 2.500 
+Lynch, Man u'El. major: SE. GPA: 4.000 
+Kurhan, At'Lantic . major: CS MATH. GPA: 3.000 
+Kieu, Raju . major: SE. GPA: 1.500 
+
+
+The sorted data by last name is: 
+Aceves, Ly Anna his major is CS
+Adedeji, Anita  his major is CS
+Barron, Hoang his major is MATH
+Camara, Chris his major is CS
+Crist, Blake  his major is SE
+Heinen, Tiffany his major is CS
+Jimenez, Vishal his major is CS
+Karki, An San Suu his major is MATH
+Kieu, Raju  his major is SE
+Kurhan, At'Lantic  his major is CS MATH
+Lynch, Man u'El his major is SE
+Marquez, Justin his major is CS
+Nguyen, Victor his major is EE
+Oniomoba, Daniel his major is CSE
+Plumer, Juan  his major is SE
+Pradhan, Kendrick his major is SE
+Rodriguez, Rick his major is CS
+Ruckdeschell, Tre' his major is CSE
+Saad, Joel  his major is UENG
+Sawall Bakary his major is CS
+Sayan, Jim Bob his major is CSE
+Shrestha, Yunesh  his major is CS
+Sifuentes, Thomas his major is CSE
+Truong, Johnny  his major is PHYS
+Vela, Tyler  his major is CS
+Weng, Ahmad his major is SE
+
+
+The sorted data by first name is:
+Weng, Ahmad his major is SE
+Karki, An San Suu his major is MATH
+Adedeji, Anita  his major is CS
+Kurhan, At'Lantic  his major is CS MATH
+Sawall Bakary his major is CS
+Crist, Blake  his major is SE
+Camara, Chris his major is CS
+Oniomoba, Daniel his major is CSE
+Barron, Hoang his major is MATH
+Sayan, Jim Bob his major is CSE
+Saad, Joel  his major is UENG
+Truong, Johnny  his major is PHYS
+Plumer, Juan  his major is SE
+Marquez, Justin his major is CS
+Pradhan, Kendrick his major is SE
+Aceves, Ly Anna his major is CS
+Lynch, Man u'El his major is SE
+Kieu, Raju  his major is SE
+Rodriguez, Rick his major is CS
+Sifuentes, Thomas his major is CSE
+Heinen, Tiffany his major is CS
+Ruckdeschell, Tre' his major is CSE
+Vela, Tyler  his major is CS
+Nguyen, Victor his major is EE
+Jimenez, Vishal his major is CS
+Shrestha, Yunesh  his major is CS
+
+
+The sorted data by major is: 
+Adedeji, Anita  his major is CS
+Sawall Bakary his major is CS
+Camara, Chris his major is CS
+Marquez, Justin his major is CS
+Aceves, Ly Anna his major is CS
+Rodriguez, Rick his major is CS
+Heinen, Tiffany his major is CS
+Vela, Tyler  his major is CS
+Jimenez, Vishal his major is CS
+Shrestha, Yunesh  his major is CS
+Kurhan, At'Lantic  his major is CS MATH
+Oniomoba, Daniel his major is CSE
+Sayan, Jim Bob his major is CSE
+Sifuentes, Thomas his major is CSE
+Ruckdeschell, Tre' his major is CSE
+Nguyen, Victor his major is EE
+Karki, An San Suu his major is MATH
+Barron, Hoang his major is MATH
+Truong, Johnny  his major is PHYS
+Weng, Ahmad his major is SE
+Crist, Blake  his major is SE
+Plumer, Juan  his major is SE
+Pradhan, Kendrick his major is SE
+Lynch, Man u'El his major is SE
+Kieu, Raju  his major is SE
+Saad, Joel  his major is UENG
+
+
+The sorted data by birthdate from the youngest to the oldest including (first name, last name, and birth date): 
+Weng, Ahmad. date of birth is 90399 
+Kurhan, At'Lantic . date of birth is 82099 
+Oniomoba, Daniel. date of birth is 81599 
+Shrestha, Yunesh . date of birth is 81299 
+Karki, An San Suu. date of birth is 72699 
+Saad, Joel . date of birth is 61199 
+Sifuentes, Thomas. date of birth is 53099 
+Lynch, Man u'El. date of birth is 32199 
+Marquez, Justin. date of birth is 31699 
+Truong, Johnny . date of birth is 30299 
+Aceves, Ly Anna. date of birth is 12999 
+Crist, Blake . date of birth is 11199 
+Sayan, Jim Bob. date of birth is 10699 
+Rodriguez, Rick. date of birth is 10399 
+Ruckdeschell, Tre'. date of birth is 112298 
+Plumer, Juan . date of birth is 100298 
+Barron, Hoang. date of birth is 92398 
+Jimenez, Vishal. date of birth is 91798 
+Nguyen, Victor. date of birth is 102197 
+Kieu, Raju . date of birth is 60695 
+Heinen, Tiffany. date of birth is 122694 
+Vela, Tyler . date of birth is 91294 
+Sawall Bakary. date of birth is 61894 
+Pradhan, Kendrick. date of birth is 30191 
+Camara, Chris. date of birth is 21190 
+Adedeji, Anita . date of birth is 11190 
+
+
+The sorted data by last name. this data include(last name, first name, and birth date):
+Aceves, Ly Anna. date of birth is 12999 
+Adedeji, Anita . date of birth is 11190 
+Barron, Hoang. date of birth is 92398 
+Camara, Chris. date of birth is 21190 
+Crist, Blake . date of birth is 11199 
+Heinen, Tiffany. date of birth is 122694 
+Jimenez, Vishal. date of birth is 91798 
+Karki, An San Suu. date of birth is 72699 
+Kieu, Raju . date of birth is 60695 
+Kurhan, At'Lantic . date of birth is 82099 
+Lynch, Man u'El. date of birth is 32199 
+Marquez, Justin. date of birth is 31699 
+Nguyen, Victor. date of birth is 102197 
+Oniomoba, Daniel. date of birth is 81599 
+Plumer, Juan . date of birth is 100298 
+Pradhan, Kendrick. date of birth is 30191 
+Rodriguez, Rick. date of birth is 10399 
+Ruckdeschell, Tre'. date of birth is 112298 
+Saad, Joel . date of birth is 61199 
+Sawall Bakary. date of birth is 61894 
+Sayan, Jim Bob. date of birth is 10699 
+Shrestha, Yunesh . date of birth is 81299 
+Sifuentes, Thomas. date of birth is 53099 
+Truong, Johnny . date of birth is 30299 
+Vela, Tyler . date of birth is 91294 
+Weng, Ahmad. date of birth is 90399 
+
+
+The sorted data by first name. this data include(last name, first name, and birth date):
+Weng, Ahmad. date of birth is 90399 
+Karki, An San Suu. date of birth is 72699 
+Adedeji, Anita . date of birth is 11190 
+Kurhan, At'Lantic . date of birth is 82099 
+Sawall Bakary. date of birth is 61894 
+Crist, Blake . date of birth is 11199 
+Camara, Chris. date of birth is 21190 
+Oniomoba, Daniel. date of birth is 81599 
+Barron, Hoang. date of birth is 92398 
+Sayan, Jim Bob. date of birth is 10699 
+Saad, Joel . date of birth is 61199 
+Truong, Johnny . date of birth is 30299 
+Plumer, Juan . date of birth is 100298 
+Marquez, Justin. date of birth is 31699 
+Pradhan, Kendrick. date of birth is 30191 
+Aceves, Ly Anna. date of birth is 12999 
+Lynch, Man u'El. date of birth is 32199 
+Kieu, Raju . date of birth is 60695 
+Rodriguez, Rick. date of birth is 10399 
+Sifuentes, Thomas. date of birth is 53099 
+Heinen, Tiffany. date of birth is 122694 
+Ruckdeschell, Tre'. date of birth is 112298 
+Vela, Tyler . date of birth is 91294 
+Nguyen, Victor. date of birth is 102197 
+Jimenez, Vishal. date of birth is 91798 
+Shrestha, Yunesh . date of birth is 81299 

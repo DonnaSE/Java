@@ -1,0 +1,206 @@
+Test1 46.00  test2 55.00  final 165.00  HW1  0.00  HW2  0.00  HW3  0.00  HW4  0.00  HW5 37.00  HW6 44.00  quiz1  8.00  quiz2  9.00 
+Weng, Ahmad: the finnal grade is 63.87 
+
+Test1 76.00  test2 58.50  final 181.24  HW1 28.00  HW2 40.00  HW3 34.00  HW4  0.00  HW5  0.00  HW6 33.00  quiz1  8.00  quiz2  4.00 
+Vela, Tyler : the finnal grade is 78.01 
+
+Test1 66.00  test2  0.00  final 198.00  HW1  0.00  HW2 20.00  HW3  0.00  HW4  0.00  HW5  0.00  HW6 33.00  quiz1  1.00  quiz2  0.00 
+Baysinger, Aerina : the finnal grade is 62.14 
+
+Test1 64.00  test2 92.50  final 177.30  HW1 44.00  HW2 35.00  HW3 32.00  HW4  0.00  HW5 27.00  HW6 50.00  quiz1  8.00  quiz2 10.00 
+Williams, Tyler : the finnal grade is 84.10 
+
+Test1 83.00  test2 56.50  final 143.81  HW1 33.00  HW2 40.00  HW3 43.00  HW4  0.00  HW5 46.00  HW6 44.00  quiz1  0.00  quiz2 10.00 
+Nguyen, Victor: the finnal grade is 73.59 
+
+Test1 65.00  test2 56.00  final 186.00  HW1 25.00  HW2 30.00  HW3  0.00  HW4 42.00  HW5 44.00  HW6 22.00  quiz1  9.00  quiz2  7.00 
+Saad, Joel : the finnal grade is 78.48 
+
+Test1 63.00  test2 34.50  final 157.60  HW1 38.00  HW2 40.00  HW3 31.00  HW4  0.00  HW5 35.00  HW6 44.00  quiz1  6.00  quiz2  0.00 
+Truong, Johnny : the finnal grade is 69.78 
+
+Test1 84.00  test2 56.00  final 135.00  HW1  0.00  HW2 20.00  HW3  0.00  HW4 36.00  HW5 32.00  HW6 39.00  quiz1 10.00  quiz2  0.00 
+Alabedredha, Jola: the finnal grade is 65.26 
+
+Test1 62.00  test2 79.00  final 186.00  HW1 44.00  HW2 30.00  HW3 47.00  HW4  0.00  HW5  0.00  HW6 33.00  quiz1  0.00  quiz2  0.00 
+Plumer, Juan : the finnal grade is 82.26 
+
+Test1 85.00  test2 77.00  final 144.00  HW1 43.00  HW2 40.00  HW3 39.00  HW4  0.00  HW5  0.00  HW6 44.00  quiz1  9.00  quiz2  0.00 
+Marquez, Justin: the finnal grade is 76.06 
+
+Test1 47.00  test2  0.00  final 81.00  HW1  0.00  HW2 40.00  HW3  0.00  HW4  0.00  HW5 44.00  HW6  0.00  quiz1  0.00  quiz2  0.00 
+Pradhan, Kendrick: the finnal grade is 34.30 
+
+Test1 75.00  test2 51.00  final 189.12  HW1 31.00  HW2 35.00  HW3 31.00  HW4  0.00  HW5  0.00  HW6 22.00  quiz1  4.00  quiz2 10.00 
+Rodriguez, Rick: the finnal grade is 72.74 
+
+Test1 26.00  test2 71.00  final 163.51  HW1 48.00  HW2 30.00  HW3 46.00  HW4 28.00  HW5 22.00  HW6  0.00  quiz1  0.00  quiz2  0.00 
+Shakya, Ryan: the finnal grade is 72.37 
+
+Test1 72.00  test2 40.00  final 126.00  HW1 31.00  HW2 40.00  HW3 19.00  HW4  0.00  HW5 27.00  HW6 44.00  quiz1  2.00  quiz2  9.00 
+Ajayi, Sabreen : the finnal grade is 61.14 
+
+Test1 89.00  test2 57.00  final 155.63  HW1 30.00  HW2  0.00  HW3 29.00  HW4  0.00  HW5 47.00  HW6  0.00  quiz1  9.00  quiz2  7.00 
+Sifuentes, Thomas: the finnal grade is 69.61 
+
+Test1 62.00  test2 86.50  final 150.00  HW1  0.00  HW2  0.00  HW3 45.00  HW4 20.00  HW5 38.00  HW6 33.00  quiz1  0.00  quiz2  0.00 
+Heinen, Tiffany: the finnal grade is 72.32 
+
+Test1 80.00  test2 87.50  final 62.00  HW1  0.00  HW2  0.00  HW3  0.00  HW4  0.00  HW5 31.00  HW6 33.00  quiz1  0.00  quiz2  0.00 
+Ruckdeschell, Tre': the finnal grade is 44.69 
+
+Test1 60.00  test2  0.00  final 189.12  HW1  0.00  HW2 30.00  HW3  0.00  HW4  0.00  HW5  0.00  HW6 39.00  quiz1  0.00  quiz2  0.00 
+Jimenez, Vishal: the finnal grade is 58.51 
+
+Test1 84.00  test2 78.00  final 186.00  HW1 49.00  HW2 35.00  HW3 50.00  HW4  0.00  HW5 50.00  HW6 33.00  quiz1  5.00  quiz2  0.00 
+Shrestha, Yunesh : the finnal grade is 85.86 
+
+Test1 31.00  test2 63.50  final 193.06  HW1 43.00  HW2 50.00  HW3 50.00  HW4 49.00  HW5  0.00  HW6  0.00  quiz1  0.00  quiz2  0.00 
+Karki, An San Suu: the finnal grade is 77.66 
+
+Test1 86.00  test2 54.50  final 155.63  HW1 34.00  HW2  0.00  HW3  0.00  HW4 30.00  HW5  0.00  HW6 33.00  quiz1  0.00  quiz2 10.00 
+Adedeji, Anita : the finnal grade is 65.53 
+
+Test1 21.00  test2 72.00  final 198.97  HW1 50.00  HW2  0.00  HW3 35.00  HW4  0.00  HW5 39.00  HW6 50.00  quiz1  8.00  quiz2  0.00 
+Sawall, Bakary: the finnal grade is 76.99 
+
+Test1 45.00  test2 89.00  final 50.00  HW1 43.00  HW2 30.00  HW3 47.00  HW4  0.00  HW5 38.00  HW6 39.00  quiz1  0.00  quiz2  0.00 
+Crist, Blake : the finnal grade is 50.39 
+
+Test1 67.00  test2 50.00  final 99.00  HW1 37.00  HW2  0.00  HW3 40.00  HW4  0.00  HW5 45.00  HW6  0.00  quiz1  7.00  quiz2  0.00 
+Camara, Chris: the finnal grade is 51.68 
+
+Test1 73.00  test2 31.00  final 198.97  HW1 27.00  HW2 50.00  HW3  0.00  HW4 28.00  HW5 38.00  HW6  0.00  quiz1  0.00  quiz2  0.00 
+Oniomoba, Daniel: the finnal grade is 78.85 
+
+Test1 92.00  test2 52.00  final 155.63  HW1 33.00  HW2 45.00  HW3  0.00  HW4  0.00  HW5 36.00  HW6 39.00  quiz1  2.00  quiz2  0.00 
+Ly, Francisco: the finnal grade is 73.52 
+
+Test1 65.00  test2 24.00  final 150.00  HW1  0.00  HW2 30.00  HW3 38.00  HW4  0.00  HW5  0.00  HW6  0.00  quiz1  8.00  quiz2  0.00 
+Barron, Hoang: the finnal grade is 56.41 
+
+Test1 57.00  test2 55.00  final 101.00  HW1 45.00  HW2 35.00  HW3  0.00  HW4  0.00  HW5 34.00  HW6 33.00  quiz1  0.00  quiz2  0.00 
+Sayan, Jim Bob: the finnal grade is 56.84 
+
+Test1 59.00  test2 66.00  final 167.45  HW1  0.00  HW2 40.00  HW3 44.00  HW4  0.00  HW5  0.00  HW6  0.00  quiz1  9.00  quiz2  0.00 
+Lewis, Leko: the finnal grade is 66.96 
+
+Test1 85.00  test2 51.50  final 165.00  HW1 30.00  HW2  0.00  HW3 33.00  HW4  0.00  HW5  0.00  HW6 28.00  quiz1  8.00  quiz2 10.00 
+Aceves, Ly Anna: the finnal grade is 68.17 
+
+Test1 84.00  test2 75.50  final 133.96  HW1 49.00  HW2 35.00  HW3 45.00  HW4  0.00  HW5 50.00  HW6 39.00  quiz1 10.00  quiz2  7.00 
+Lynch, Man u'El: the finnal grade is 75.35 
+
+Test1 63.00  test2 92.50  final 163.51  HW1 48.00  HW2 30.00  HW3 45.00  HW4  0.00  HW5 50.00  HW6 44.00  quiz1 10.00  quiz2 10.00 
+Kurhan, At'Lantic : the finnal grade is 82.76 
+
+Test1 41.00  test2 78.50  final 98.00  HW1 48.00  HW2 40.00  HW3 50.00  HW4  0.00  HW5 47.00  HW6 44.00  quiz1  2.00  quiz2 10.00 
+Kieu, Raju: the finnal grade is 63.18 
+
+The average grade of the class is 68.16 
+the highest grade is 85.855 
+The lowest Grade 34.298 
+The median is 69.775
+
+
+The sorted data by the last name: 
+
+The grades of Aceves, Ly Anna: 
+85.0	51.5	165.0	30.0	0.0	33.0	0.0	0.0	28.0	8.0	10.0	5.0	
+and the final grade is: 68.17 
+The grades of Adedeji, Anita : 
+86.0	54.5	155.63	34.0	0.0	0.0	30.0	0.0	33.0	0.0	10.0	4.0	
+and the final grade is: 65.53 
+The grades of Ajayi, Sabreen : 
+72.0	40.0	126.0	31.0	40.0	19.0	0.0	27.0	44.0	2.0	9.0	5.0	
+and the final grade is: 61.14 
+The grades of Alabedredha, Jola: 
+84.0	56.0	135.0	0.0	20.0	0.0	36.0	32.0	39.0	10.0	0.0	5.0	
+and the final grade is: 65.26 
+The grades of Barron, Hoang: 
+65.0	24.0	150.0	0.0	30.0	38.0	0.0	0.0	0.0	8.0	0.0	5.0	
+and the final grade is: 56.41 
+The grades of Baysinger, Aerina : 
+66.0	0.0	198.0	0.0	20.0	0.0	0.0	0.0	33.0	1.0	0.0	4.0	
+and the final grade is: 62.14 
+The grades of Camara, Chris: 
+67.0	50.0	99.0	37.0	0.0	40.0	0.0	45.0	0.0	7.0	0.0	4.0	
+and the final grade is: 51.68 
+The grades of Crist, Blake : 
+45.0	89.0	50.0	43.0	30.0	47.0	0.0	38.0	39.0	0.0	0.0	6.0	
+and the final grade is: 50.39 
+The grades of Heinen, Tiffany: 
+62.0	86.5	150.0	0.0	0.0	45.0	20.0	38.0	33.0	0.0	0.0	5.0	
+and the final grade is: 72.32 
+The grades of Jimenez, Vishal: 
+60.0	0.0	189.12	0.0	30.0	0.0	0.0	0.0	39.0	0.0	0.0	3.0	
+and the final grade is: 58.51 
+The grades of Karki, An San Suu: 
+31.0	63.5	193.06	43.0	50.0	50.0	49.0	0.0	0.0	0.0	0.0	5.0	
+and the final grade is: 77.66 
+The grades of Kieu, Raju: 
+41.0	78.5	98.0	48.0	40.0	50.0	0.0	47.0	44.0	2.0	10.0	6.0	
+and the final grade is: 63.18 
+The grades of Kurhan, At'Lantic : 
+63.0	92.5	163.51	48.0	30.0	45.0	0.0	50.0	44.0	10.0	10.0	5.0	
+and the final grade is: 82.76 
+The grades of Lewis, Leko: 
+59.0	66.0	167.45	0.0	40.0	44.0	0.0	0.0	0.0	9.0	0.0	4.0	
+and the final grade is: 66.96 
+The grades of Ly, Francisco: 
+92.0	52.0	155.63	33.0	45.0	0.0	0.0	36.0	39.0	2.0	0.0	5.0	
+and the final grade is: 73.52 
+The grades of Lynch, Man u'El: 
+84.0	75.5	133.96	49.0	35.0	45.0	0.0	50.0	39.0	10.0	7.0	6.0	
+and the final grade is: 75.35 
+The grades of Marquez, Justin: 
+85.0	77.0	144.0	43.0	40.0	39.0	0.0	0.0	44.0	9.0	0.0	6.0	
+and the final grade is: 76.06 
+The grades of Nguyen, Victor: 
+83.0	56.5	143.81	33.0	40.0	43.0	0.0	46.0	44.0	0.0	10.0	6.0	
+and the final grade is: 73.59 
+The grades of Oniomoba, Daniel: 
+73.0	31.0	198.97	27.0	50.0	0.0	28.0	38.0	0.0	0.0	0.0	6.0	
+and the final grade is: 78.85 
+The grades of Plumer, Juan : 
+62.0	79.0	186.0	44.0	30.0	47.0	0.0	0.0	33.0	0.0	0.0	5.0	
+and the final grade is: 82.26 
+The grades of Pradhan, Kendrick: 
+47.0	0.0	81.0	0.0	40.0	0.0	0.0	44.0	0.0	0.0	0.0	4.0	
+and the final grade is: 34.30 
+The grades of Rodriguez, Rick: 
+75.0	51.0	189.12	31.0	35.0	31.0	0.0	0.0	22.0	4.0	10.0	5.0	
+and the final grade is: 72.74 
+The grades of Ruckdeschell, Tre': 
+80.0	87.5	62.0	0.0	0.0	0.0	0.0	31.0	33.0	0.0	0.0	5.0	
+and the final grade is: 44.69 
+The grades of Saad, Joel : 
+65.0	56.0	186.0	25.0	30.0	0.0	42.0	44.0	22.0	9.0	7.0	6.0	
+and the final grade is: 78.48 
+The grades of Sawall, Bakary: 
+21.0	72.0	198.97	50.0	0.0	35.0	0.0	39.0	50.0	8.0	0.0	5.0	
+and the final grade is: 76.99 
+The grades of Sayan, Jim Bob: 
+57.0	55.0	101.0	45.0	35.0	0.0	0.0	34.0	33.0	0.0	0.0	6.0	
+and the final grade is: 56.84 
+The grades of Shakya, Ryan: 
+26.0	71.0	163.51	48.0	30.0	46.0	28.0	22.0	0.0	0.0	0.0	6.0	
+and the final grade is: 72.37 
+The grades of Shrestha, Yunesh : 
+84.0	78.0	186.0	49.0	35.0	50.0	0.0	50.0	33.0	5.0	0.0	5.0	
+and the final grade is: 85.86 
+The grades of Sifuentes, Thomas: 
+89.0	57.0	155.63	30.0	0.0	29.0	0.0	47.0	0.0	9.0	7.0	6.0	
+and the final grade is: 69.61 
+The grades of Truong, Johnny : 
+63.0	34.5	157.6	38.0	40.0	31.0	0.0	35.0	44.0	6.0	0.0	6.0	
+and the final grade is: 69.78 
+The grades of Vela, Tyler : 
+76.0	58.5	181.24	28.0	40.0	34.0	0.0	0.0	33.0	8.0	4.0	6.0	
+and the final grade is: 78.01 
+The grades of Weng, Ahmad: 
+46.0	55.0	165.0	0.0	0.0	0.0	0.0	37.0	44.0	8.0	9.0	6.0	
+and the final grade is: 63.87 
+The grades of Williams, Tyler : 
+64.0	92.5	177.3	44.0	35.0	32.0	0.0	27.0	50.0	8.0	10.0	6.0	
+and the final grade is: 84.10 
